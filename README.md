@@ -15,7 +15,7 @@ Hacktoberfest { [Live Website](https://thevirus69.github.io/Pro-Code/)}
 P.S. Star ⭐ and Share this repository, if you had fun!! 😍
 
 Hacktoberfest 2022
-![Event Completed](/scripts/Event_Completed_.png)
+![Event Completed](/Event_Completed.png)
 
 
 # Contribution Rules📚:
