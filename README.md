@@ -91,6 +91,6 @@ For more information on syncing forks [read this article from Github](https://he
 
 ## Our Top Contributors 
 <p align="center"><a href="https://github.com/thevirus69/Pro-Code/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=thevirus69/Hacktoberfest2022" />
+  <img src="https://contributors-img.web.app/image?repo=thevirus69/Pro-Code" />
 </a></p>
 
