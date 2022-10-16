@@ -89,8 +89,3 @@ For more information on syncing forks [read this article from Github](https://he
 ###### *We will do our best to merge as much as possible from everyone. However, time is limited and the merge conflicts are horrible :astonished: <3*
 <br>
 
-## Our Top Contributors 
-<p align="center"><a href="https://github.com/thevirus69/Pro-Code/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=thevirus69/Pro-Code" />
-</a></p>
-
